@@ -105,6 +105,14 @@ http://localhost:8080/comments
 
 **5. Permisos**
 
+Para Agregar permisos, es necesario que se llame al menos una vez al metodo Get de :
+
+```
+http://localhost:8080/users
+http://localhost:8080/albums
+```
+
+
 Basepath
 
 ```
